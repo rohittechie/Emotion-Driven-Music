@@ -14,7 +14,7 @@ hands = mp.solutions.hands
 holis = holistic.Holistic()
 drawing = mp.solutions.drawing_utils
 
-st.header("Emotion Based Music Recommender")
+st.header("🎼✨ Emotion-Driven Music Recommender 🎧💖")
 
 if "run" not in st.session_state:
 	st.session_state["run"] = "true"
