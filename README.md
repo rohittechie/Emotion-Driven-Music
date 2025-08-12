@@ -1,6 +1,6 @@
 # emotion-driven-music
 <h1>Emotion-Driven-Music</h1>
-<a href="https://github.com/rohittechie/Emotion-Driven-Music/edit/main/README.md">Emotion based music | ai | deep learning project | with code | ml project</a>
+<a href="https://github.com/rohittechie/Emotion-Driven-Music/tree/main">Emotion driven music | ai | deep learning project | with code | ml project</a>
 
 <h1>Description</h1>
 
