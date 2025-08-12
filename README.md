@@ -3,8 +3,9 @@
 <a href="https://youtu.be/uDzLxos0lNU](https://github.com/rohittechie/Emotion-Driven-Music/edit/main/README.md">Emotion based music | ai | deep learning project | with code | ml project</a>
 
 <h1>Description</h1>
+---
 
-## 🎵 Emotion-Based Music Recommender
+## 🎵 Emotion-Driven Music Recommender
 
 An **AI-powered real-time web application** that detects your facial emotion through the webcam and plays music that perfectly matches your mood. This project blends **computer vision**, **deep learning**, and **interactive web technologies** to create a truly personalized listening experience.
 
@@ -39,4 +40,3 @@ An **AI-powered real-time web application** that detects your facial emotion thr
 
 ---
 
-If you want, I can also **write a compact README.md file** for this so your GitHub repo looks professional with installation steps, usage guide, and demo screenshots. That will make it stand out a lot more.
